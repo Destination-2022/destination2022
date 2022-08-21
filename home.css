@@ -1,0 +1,202 @@
+ .u-section-1 {
+  background-image: url("images/destination.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 169px auto 60px;
+} .u-section-2 {
+  background-image: url("images/destination.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 553px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 24px auto 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: linear-gradient(to right, #f1b5b8, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: 90px auto 0 232px;
+  padding: 7px 21px;
+}
+
+.u-section-2 .u-btn-2 {
+  background-image: linear-gradient(to right, #f1b5b8, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: -54px 239px 0 auto;
+  padding: 7px 21px;
+}
+
+.u-section-2 .u-btn-3 {
+  background-image: linear-gradient(to right, #f1b5b8, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: -54px 422px 0 auto;
+  padding: 7px 21px;
+}
+
+.u-section-2 .u-btn-4 {
+  background-image: linear-gradient(to right, #f1b5b8, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: -54px auto 0 397px;
+  padding: 7px 21px;
+}
+
+.u-section-2 .u-btn-5 {
+  background-image: linear-gradient(to right, #f1b5b8, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: 48px 215px 0 auto;
+  padding: 7px 21px;
+}
+
+.u-section-2 .u-btn-6 {
+  background-image: linear-gradient(to right, #f1b5b8, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: -54px 406px 0 auto;
+  padding: 7px 21px;
+}
+
+.u-section-2 .u-btn-7 {
+  background-image: linear-gradient(to right, #f1b5b8, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: -54px auto 0 412px;
+  padding: 7px 21px;
+}
+
+.u-section-2 .u-btn-8 {
+  background-image: linear-gradient(to right, #f1b5b8, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.5rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: -54px auto 60px 240px;
+  padding: 7px 21px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 456px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 32px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 39px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 222px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-left: 197px;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 15px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-right: 206px;
+  }
+
+  .u-section-2 .u-btn-7 {
+    margin-left: 212px;
+  }
+
+  .u-section-2 .u-btn-8 {
+    margin-left: 40px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 349px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 2px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-5 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-6 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-btn-7 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-8 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 262px;
+  }
+
+  .u-section-2 .u-btn-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 165px;
+  }
+}
